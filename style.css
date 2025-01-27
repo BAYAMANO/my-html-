@@ -6,9 +6,11 @@
 .img1{
     height: 200px;
 
+
 }
 .block1{
     max-width:400px ;
+    background-color: black;
 }
 .main1{
     display: flex;
