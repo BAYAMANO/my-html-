@@ -1,0 +1,17 @@
+.nav1{
+    color:rgb(219, 21, 192);
+    margin-left:600px;
+  
+}
+.img1{
+    height: 200px;
+
+}
+.block1{
+    max-width:400px ;
+}
+.main1{
+    display: flex;
+    gap: 50px;
+    margin-left: 40px;
+}
